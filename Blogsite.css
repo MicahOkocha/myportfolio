@@ -1,0 +1,47 @@
+body{
+	max-width: 100%;
+	max-height: 100%;
+	font-family: "roboto","arial";
+	margin: 0 auto;
+
+}
+.row{
+	padding-top: 10px;
+}
+.brand p{
+	float: left;
+	text-align: left;
+	color:yellow;
+
+}
+.dot{
+	text-align: center;
+}
+#pics{
+margin-left: 50px;
+height: 300px;
+width: 300px;
+}
+#text{
+	margin: 10px 18px 20px 20px;
+}
+.box{
+	font-style: inherit;
+	margin-left: 8px;
+
+}
+#about{
+	color: blue;
+	margin-right:25px;
+
+}
+#image{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px; 
+}
+.endnote{
+	text-align: center;
+	color: blue;
+
+}---------media quaries--------
